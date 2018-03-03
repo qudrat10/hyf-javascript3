@@ -29,9 +29,4 @@ function getInfo(){
       }
 
       xhr.send();
-    }
-
-  
-
-   
-    
+    }   
